@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robinhood/static/css/main.d6b1ff97.chunk.css",
+    "main.js": "/robinhood/static/js/main.6a7cebaf.chunk.js",
+    "main.js.map": "/robinhood/static/js/main.6a7cebaf.chunk.js.map",
+    "runtime-main.js": "/robinhood/static/js/runtime-main.1df5381a.js",
+    "runtime-main.js.map": "/robinhood/static/js/runtime-main.1df5381a.js.map",
+    "static/js/2.2900fa90.chunk.js": "/robinhood/static/js/2.2900fa90.chunk.js",
+    "static/js/2.2900fa90.chunk.js.map": "/robinhood/static/js/2.2900fa90.chunk.js.map",
+    "static/js/3.0066efbb.chunk.js": "/robinhood/static/js/3.0066efbb.chunk.js",
+    "static/js/3.0066efbb.chunk.js.map": "/robinhood/static/js/3.0066efbb.chunk.js.map",
+    "index.html": "/robinhood/index.html",
+    "static/css/main.d6b1ff97.chunk.css.map": "/robinhood/static/css/main.d6b1ff97.chunk.css.map",
+    "static/js/2.2900fa90.chunk.js.LICENSE.txt": "/robinhood/static/js/2.2900fa90.chunk.js.LICENSE.txt",
+    "static/media/robinhood.d4c5626b.svg": "/robinhood/static/media/robinhood.d4c5626b.svg",
+    "static/media/stock.ef9ad219.svg": "/robinhood/static/media/stock.ef9ad219.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1df5381a.js",
+    "static/js/2.2900fa90.chunk.js",
+    "static/css/main.d6b1ff97.chunk.css",
+    "static/js/main.6a7cebaf.chunk.js"
+  ]
+}
